@@ -1,5 +1,6 @@
 #include <Arduino.h>
 #include <EncButton.h>
+#include <GyverIO.h>
 
 Button lowerButton = 2;
 Button upperButton = 3;
